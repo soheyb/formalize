@@ -1,0 +1,9 @@
+extends layout/default
+
+append content
+  form
+    #my-select.my.select(type="select", name="customSelect", option=[{length="5", selectedIndex="true"}, {}, {}])
+    select#classicSelect
+
+append scripts
+  script(src="./select.js")

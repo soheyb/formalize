@@ -15,6 +15,7 @@
   "scripts": [
     "index.js",
     "lib/radio.js",
-    "lib/checkbox.js"
+    "lib/checkbox.js",
+    "lib/select.js"
   ]
 }

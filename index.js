@@ -8,3 +8,5 @@ exports.version = '1.0.0';
 exports.Radio = require('./lib/radio');
 
 exports.Checkbox = require('./lib/checkbox');
+
+exports.Select = require('./lib/select');
